@@ -1,0 +1,5 @@
+==================
+mymath
+==================
+
+sample for packaging
